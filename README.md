@@ -4,11 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## 生活保護請負人
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## 〝反貧困〟ビジネスやってます
 
  - supports dark mode on macOS Mojave
  - optional sidebar
