@@ -1,6 +1,7 @@
 ---
 permalink: "/about/"
 layout: page
+title: ""
 ---
 
 ## 生活保護請負人
