@@ -10,7 +10,7 @@ categories: media
 other text
 other text
 
-<span style="font-size: 150%">宮古島。死闘の末獲得したANAのSUPER VALUE SALE 片道7,370円で来た(2時間サーバーダウンでチケット取れるまでは発狂モノ)
+<span style="font-size: 120%">宮古島。死闘の末獲得したANAのSUPER VALUE SALE 片道7,370円で来た(2時間サーバーダウンでチケット取れるまでは発狂モノ)
 沖縄生保パラダイス化/ホームレス沖縄就農計画の視察(笑
 先月 役所申請同行のみサポートさせて頂いた（自称）ダメ人間T利さんの実家に泊まって宿泊費は今回タダ。ｱﾞﾘｶﾞﾃｴ…
 
