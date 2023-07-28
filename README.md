@@ -1,5 +1,4 @@
 ---
-title: "活動目的"
 permalink: "/about/"
 layout: page
 ---
