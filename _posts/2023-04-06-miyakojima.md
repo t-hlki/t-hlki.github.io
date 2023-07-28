@@ -5,10 +5,6 @@ layout: post
 categories: media
 ---
 
-## Header goes here
-
-other text
-other text
 
 <span style="font-size: 130%">宮古島。死闘の末獲得したANAのSUPER VALUE SALE 片道7,370円で来た(2時間サーバーダウンでチケット取れるまでは発狂モノ)
 沖縄生保パラダイス化/ホームレス沖縄就農計画の視察。
