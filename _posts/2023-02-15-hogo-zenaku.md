@@ -1,5 +1,5 @@
 ---
-title:  "生活保護は善か悪か"
+title:  "生活保護の善悪"
 mathjax: true
 layout: post
 categories: media
