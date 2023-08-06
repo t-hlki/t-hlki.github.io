@@ -5,12 +5,12 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-
-# Layout
-
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
+
+# Layout
+
 minimal: true             # use a dark header
 
 # Menu
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "活動目的"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Subscribe, url: "/feed.xml"}
   - {title: Mail, icon: envelope, url: "mailto:th2947@columbia.edu"}
   
 
