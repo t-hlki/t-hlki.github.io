@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "活動目的"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Subscribe, url: "/feed.xml"}
+  - {title: Subscribe, icon: none, url: "/feed.xml"}
   - {title: Mail, icon: envelope, url: "mailto:th2947@columbia.edu"}
   
 
