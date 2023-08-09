@@ -15,5 +15,5 @@ categories: media
 
 <span style="font-size: 200%; color: red;">赤くて大きい文字</span>
 
-[🔗生保申請マニュアル](https://docs.google.com/document/d/14lv7WJjZK0jcjpD3xnEfFFuS72kNyaSj_HSGfM0BjrM/edit?usp=sharing)
+[[↗]生保申請マニュアル](https://docs.google.com/document/d/14lv7WJjZK0jcjpD3xnEfFFuS72kNyaSj_HSGfM0BjrM/edit?usp=sharing)
 
