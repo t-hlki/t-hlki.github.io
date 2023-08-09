@@ -21,7 +21,7 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
  - syntax highlighting
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## みんなで目指そう一億総生活保護(ベーシックインカム) <ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>
+## みんなで目指そう一億総生活保護(ベーシックインカム) <ruby>一億総生活保護<rp>（</rp><rt>ベーシックインカム</rt><rp>）</rp></ruby>
 
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
