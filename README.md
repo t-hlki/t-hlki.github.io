@@ -21,7 +21,7 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
  - syntax highlighting
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## Based on
+## みんなで目指そう一億総生活保護(ベーシックインカム)
 
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
