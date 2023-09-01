@@ -10,6 +10,8 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
 
 ## 〝反貧困〟ビジネスやってます
 
+
+地方へ行って住むためには初期費用がかかる。保証人がいない人は家賃保証会社に保証料を支払わなければならない。
  - supports dark mode on macOS Mojave
  - optional sidebar
  - MathJax support
