@@ -12,6 +12,8 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
 
 
 地方へ行って住むためには初期費用がかかる。保証人がいない人は家賃保証会社に保証料を支払わなければならない。
+　政府の政策を見ると、雇用対策や多重債務相談窓口などいろんなサービス窓口を設けているんだけど、どれも権限機関の縦割りそのままで、物事が動きづらくなっていたり、たらい回しにされていた。それをワンストップという形で一カ所に整理し、そこで相談できる形にした。
+
  - supports dark mode on macOS Mojave
  - optional sidebar
  - MathJax support
