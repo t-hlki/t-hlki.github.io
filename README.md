@@ -4,6 +4,7 @@ layout: page
 title: ""
 ---
 
+## DIY大家
 ## 生活保護請負人
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
