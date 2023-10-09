@@ -6,7 +6,7 @@ title: ""
 
 ## 生活保護請負人
 好きなことだけで生きていく近未来社会
-現在20%前後の生活保護の補足率(=利用率)を極限まで高める
+現在20%前後の生活保護の補足率(=利用率)を極限まで高める、という頭のおかしな活動を展開しています。
 ## DIY大家〝反貧困〟ビジネス
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
