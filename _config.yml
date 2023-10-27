@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: <font face="Alegreya Sans SC">ホーム</font>}
+  - {file: "index.html", title: "ホーム"}
   - {file: "README.md", title: "活動目的"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
