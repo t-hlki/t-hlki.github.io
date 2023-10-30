@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Subscribe, icon: none, url: "/feed.xml"}
-  - {title: Mail, icon: envelope-open-regular, url: "mailto:th2947@columbia.edu"}
+  - {title: Mail, icon: envelope-open-regular.svg, url: "mailto:th2947@columbia.edu"}
   
 
 
