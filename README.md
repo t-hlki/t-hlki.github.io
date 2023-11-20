@@ -15,6 +15,8 @@ title: ""
 現在20%前後の生活保護の補足率(=利用率)を極限まで高めよう、という頭のおかしな活動を展開しています。
 ## DIY大家〝反貧困〟ビジネス
 
+給料の8割方を他人の住む家に回しています。
+
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 
