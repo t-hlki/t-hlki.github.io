@@ -18,6 +18,9 @@ title: ""
 OECDの中で日本の貧困率は格差大国アメリカを抜き先進国ワーストとなってます。生活保護費の対GCPも最低。これから技術の進歩の過程で仕事はなくなり、日本は更に格差国家となっていくのではないか? この問題に絡むことは成長産業の波に乗ることになるのでは？そんな仮説に基づいて始めてみたわけです
 https://www.oecd.org/tokyo/statistics/poverty-rate-japanese-version.htm
 
+雇用対策や多重債務相談窓口などいろんなサービス窓口を設けているんだけど、どれも権限機関の縦割りそのままで、物事が動きづらくなっていたり、たらい回しにされていた。住居喪失という問題に直面した人達は往々にして他の問題も抱えています。それをまずは住居支援という形で店子と大家の一定の信頼関係を築いた上で、ワンストップという形で一カ所に整理し、そこで相談できる形にした。　
+
+
 給料の8割方を他人が住む家に回しています。
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
