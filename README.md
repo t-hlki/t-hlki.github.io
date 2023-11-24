@@ -15,6 +15,9 @@ title: ""
 現在20%前後の生活保護の補足率(=利用率)を極限まで高めよう、という頭のおかしな活動を展開しています。
 ## DIY大家〝反貧困〟ビジネス
 
+OECDの中で日本の貧困率は格差大国アメリカを抜き先進国ワーストとなってます。生活保護費の対GCPも最低。これから貧困国家となっていく日本。貧困問題に絡むことは成長産業の波に乗ることです。
+https://www.oecd.org/tokyo/statistics/poverty-rate-japanese-version.htm
+
 給料の8割方を他人が住む家に回しています。
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
