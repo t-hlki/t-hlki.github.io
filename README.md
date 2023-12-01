@@ -45,6 +45,7 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
 
 ## みんなで目指そう<ruby>一億総生活保護<rp>（</rp><rt>ベーシックインカム</rt><rp>）</rp></ruby>
 
+ちょっと原理的に無理そうですが、、
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
 - [Lagrange](https://github.com/LeNPaul/Lagrange)
