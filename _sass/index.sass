@@ -8,5 +8,15 @@ $visited-color: #90A4AE !default
 $dark: #212228 !default
 $light: #ffffff !default
 
+a{
+  color: $link-color;
+  text-decoration: none;
+  
+  &:visited{
+    color: $visited-color;
+    border-color: $visited-color;
+  }
+
+
 @function reduce ($percent)
   @return rgba(mix($dark, $light), $percent / 100)
