@@ -1,15 +1,11 @@
 $font-size: calc(0.8rem + 0.2vw) !default
 $font-weight: 400 !default
-$font-family: "Sans-Serif", -apple-system, "Helvetica", "Segoe UI", "Roboto", sans-serif !default
+$font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif !default
 $heading-weight: 600 !default
 $line-height: 1.6 !default
 $link-color: #546E7A !default
-$visited-color: #90A4AE !default
 $dark: #212228 !default
 $light: #ffffff !default
-
-a{visited{color: $visited-color; border-color: $visited-color;}
-
 
 @function reduce ($percent)
   @return rgba(mix($dark, $light), $percent / 100)
