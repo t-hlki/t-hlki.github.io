@@ -56,6 +56,8 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
 
 MMTはちょっと原理的に無理そうですが、、
 苫米地案は？
+なりたゆうすけ　生保の徹底
+
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
 - [Lagrange](https://github.com/LeNPaul/Lagrange)
