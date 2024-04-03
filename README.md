@@ -82,6 +82,7 @@ https://www.oecd.org/tokyo/statistics/poverty-rate-japanese-version.htm
 
 　少子化で人口減少まっしぐらの日本。中古住宅は供給過剰で腐る程余っています。一方、お金が無くて借家を追い出される人も腐る程います（腐るというとちょっと失礼な表現ですが本当に後を絶たないのです）。貧困格差で生じたこの巨大なアンバランスを埋めるこの事業には、巨大な未開拓市場が存在します。とはいえここ数年でやや競合も増えてきましたが…。
 
+住宅のラストリゾートを提供
 給料の8割方を他人が住む家に回しています。
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
